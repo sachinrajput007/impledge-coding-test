@@ -9,6 +9,6 @@ Note: A compounded word is one that can be constructed by combining
 
 ****Steps to execute the code***
 
-Step-1) Put all Input_01.txt, Input_01.txt and main.py file in a same folder.
+Step-1) Put all Input_01.txt, Input_02.txt and main.py file in a same folder.
 Step-2) Before excecute the main.py file , change the input(.txt) file
               which you want to process the particular .text file
